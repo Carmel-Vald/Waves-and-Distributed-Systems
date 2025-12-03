@@ -78,6 +78,5 @@ These support and validate the numerical MATLAB results.
 - Fourier-domain signal analysis  
 - Numerical optical simulation  
 
-###  Quick Access
-[➡️ **Open main.m**](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/main.m)
-
+### Quick Access
+[ Open main.m](main.m)
