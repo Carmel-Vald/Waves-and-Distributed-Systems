@@ -1,14 +1,8 @@
 # Waves-and-Distributed-Systems
 mplementing numerical simulations of pulse propagation in dispersive media, multi-layer optical coatings, quarter-wave anti-reflection layers, and distributed Bragg reflectors (DBR).
 
-# Waves and Distributed Systems – Computer Exercise (044148)
 
-This repository contains the full MATLAB-based solution for the computer assignment in the course *Waves and Distributed Systems*.  
-The project covers numerical simulations of dispersive wave propagation, optical multilayer structures, and Bragg reflectors, including full analytical derivations and generated figures.
-
----
-
-## 📌 Contents
+##  Contents
 
 ### 1. Pulse Propagation in Dispersive Media
 Simulation of a Gaussian-modulated pulse propagating through different refractive-index profiles:
@@ -78,8 +72,12 @@ These support and validate the numerical MATLAB results.
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 - MATLAB  
 - Transfer Matrix Method (TMM)  
 - Fourier-domain signal analysis  
 - Numerical optical simulation  
+
+###  Quick Access
+[➡️ **Open main.m**](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/main.m)
+
